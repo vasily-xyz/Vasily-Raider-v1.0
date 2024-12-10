@@ -2,6 +2,8 @@
 This is a simple " Discord " Raider with 4 options made 100% in python!
 Please do not buy this tool from any server because this tool is " FREE "
 
+![image_alt](https://github.com/vasily-xyz/Vasily-Raider-v1.0/blob/main/scr/Vasily.png?raw=true)
+
 -------------------------------------------------------------------------------
 
 # [Discord](https://discord.gg/vasily)
